@@ -1,3 +1,3 @@
 # merge-conflict-assignment
-# About Tri
+# Notaboutme
 Doing assignment
