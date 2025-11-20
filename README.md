@@ -1,3 +1,3 @@
 # merge-conflict-assignment
-# NotAboutMe
+# Notaboutme
 Doing assignment
